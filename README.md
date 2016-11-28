@@ -1,2 +1,2 @@
-# server-configs
-central repository for maintaining our ARK server cnfiguration files
+https://git-scm.com/download/win
+https://desktop.github.com/
